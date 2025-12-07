@@ -94,8 +94,3 @@ All use must comply with local laws and ethical standards.
 License
 
 This project can be used, modified, and shared for personal or educational cybersecurity purposes. Commercial use and any malicious application are strictly prohibited.
-
-⸻
-	•	A logo or project icon
-
-Just tell me.
